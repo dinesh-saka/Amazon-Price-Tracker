@@ -1,6 +1,6 @@
 # Amazon-Price-Tracker
 
-The** Amazon Price Tracker** is a Python script that allows you to track the price of a product on Amazon and receive email alerts when the price drops below a certain threshold. It uses web scraping techniques to extract product details and price information from Amazon's product page.
+The **Amazon Price Tracker** is a Python script that allows you to track the price of a product on Amazon and receive email alerts when the price drops below a certain threshold. It uses web scraping techniques to extract product details and price information from Amazon's product page.
 
 ## Features
 
